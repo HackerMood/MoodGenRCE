@@ -1,3 +1,8 @@
+/*
+	Creator --> Raytano_Hacker_Mood
+	Github  --> https://github.com/HackerMood
+*/
+
 #include <iostream>
 #include <string>
 #include <fstream>
